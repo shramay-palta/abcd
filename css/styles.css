@@ -100,7 +100,6 @@ header a {
 header a:hover {
 	color: #39E2A5;
 	text-decoration: none;
-	opacity: 1.0;
 	border-radius: 4px
 }
 
@@ -123,7 +122,7 @@ header.sticky {
 }
 
 #mobile-menu-open {
-	display: none;
+	display: block;
 	cursor: pointer;
 	position: fixed;
 	right: 15px;
@@ -138,7 +137,7 @@ header.sticky {
 }
 
 #mobile-menu-close {
-	display: none;
+	display: block;
 	text-align: right;
 	width: 100%;
 	background: #000;
