@@ -152,11 +152,13 @@ header.sticky {
 
 #mobile-menu-close span {
 	font-size: 0.5em;
-	text-transform: uppercase
+	text-transform: uppercase;
+	opacity: 1
 }
 
 #mobile-menu-close i {
 	vertical-align: middle;
+	opacity: 1
 }
 
 footer {
