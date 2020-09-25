@@ -130,6 +130,7 @@ header.sticky {
 	top: 10px;
 	color: #39E2A5;
 	background: #000;
+	opacity: 1;
 	font-size: 1.5em;
 	z-index: 20;
 	padding: 0 7px;
@@ -141,6 +142,7 @@ header.sticky {
 	text-align: right;
 	width: 100%;
 	background: #000;
+	opacity 1;
 	font-size: 1.5em;
 	padding-right: 15px;
 	padding-top: 10px;
@@ -150,13 +152,11 @@ header.sticky {
 
 #mobile-menu-close span {
 	font-size: 0.5em;
-	background: #000;
 	text-transform: uppercase
 }
 
 #mobile-menu-close i {
 	vertical-align: middle;
-	background: #000;
 }
 
 footer {
