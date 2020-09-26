@@ -130,8 +130,8 @@ header.sticky {
 	right: 15px;
 	top: 10px;
 	color: #39E2A5;
-	background: #181818;
-	opacity: 1;
+	background: #232323;
+	opacity: 0.5;
 	font-size: 1em;
 	z-index: 20;
 	padding: 0 7px;
@@ -142,7 +142,7 @@ header.sticky {
 	display: none;
 	text-align: right;
 	width: 100%;
-	opacity: 1;
+	opacity: 0.5;
 	font-size: 1em;
 	padding-right: 15px;
 	padding-top: 10px;
@@ -153,8 +153,9 @@ header.sticky {
 #mobile-menu-close span {
 	font-size: 1em;
 	text-transform: uppercase;
-	opacity: 1;
-	background: #000
+	opacity: 0.5;
+	padding-right: 15px;
+	background: #232323
 }
 
 #mobile-menu-close i {
