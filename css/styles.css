@@ -100,8 +100,8 @@ header a {
 header a:hover {
 	color: #39E2A5;
 	text-decoration: none;
-	opacity: 1;
-	background: #232323;
+	opacity: 0.5;
+	background: #181818;
 	border-radius: 4px
 }
 
@@ -130,6 +130,7 @@ header.sticky {
 	right: 15px;
 	top: 10px;
 	color: #39E2A5;
+	background: #181818;
 	opacity: 1;
 	font-size: 1em;
 	z-index: 20;
@@ -141,7 +142,7 @@ header.sticky {
 	display: none;
 	text-align: right;
 	width: 100%;
-	opacity: 1;
+	opacity: 0;
 	font-size: 1em;
 	padding-right: 15px;
 	padding-top: 10px;
