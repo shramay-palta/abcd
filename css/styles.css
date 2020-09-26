@@ -130,7 +130,7 @@ header.sticky {
 	right: 15px;
 	top: 10px;
 	color: #39E2A5;
-	opacity: 0;
+	opacity: 1;
 	font-size: 1em;
 	z-index: 20;
 	padding: 0 7px;
@@ -141,7 +141,7 @@ header.sticky {
 	display: none;
 	text-align: right;
 	width: 100%;
-	opacity: 0;
+	opacity: 1;
 	font-size: 1em;
 	padding-right: 15px;
 	padding-top: 10px;
