@@ -154,9 +154,8 @@ header.sticky {
 
 #mobile-menu-close i {
 	vertical-align: middle;
-	opacity: 1;
 	font-size: 1em;
-	background: #000
+	padding-right: 15px
 }
 
 footer {
