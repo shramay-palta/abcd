@@ -100,7 +100,7 @@ header a {
 header a:hover {
 	color: #39E2A5;
 	text-decoration: none;
-	opacity: 0.2;
+	opacity: 1;
 	background: #181818;
 	border-radius: 6px
 }
