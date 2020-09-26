@@ -131,7 +131,8 @@ header.sticky {
 	color: #39E2A5;
 	background: #000;
 	opacity: 1;
-	font-size: 1.5em;
+	font-size: 2em;
+	font-weight: 600;
 	z-index: 20;
 	padding: 0 7px;
 	border-radius: 4px;
@@ -144,6 +145,7 @@ header.sticky {
 	background: #000;
 	opacity 1;
 	font-size: 2em;
+	font-weight: 600;
 	padding-right: 15px;
 	padding-top: 10px;
 	cursor: pointer;
