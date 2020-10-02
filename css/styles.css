@@ -428,7 +428,7 @@ footer {
 
 .vtimeline-content h3 {
 	font-size: 1.3em;
-	font-weight: 300;
+	font-weight: 400;
 	color: #39E2A5;
 	background: #232323;
 	display: inline-block;
@@ -437,7 +437,7 @@ footer {
 
 .vtimeline-content h4 {
 	font-size: 1.1em;
-	font-weight: 300;
+	font-weight: 400;
 	background: #232323;
 	color: #fff;
 	margin: 0 0 15px 0
@@ -509,7 +509,7 @@ footer {
 }
 
 .education-block h3 {
-	font-weight: 500;
+	font-weight: 400;
 	float: left;
 	margin: 0;
 	color: #39E2A5;
@@ -525,7 +525,7 @@ footer {
 .education-block h4 {
 	color: #fff;
 	clear: both;
-	font-weight: 500;
+	font-weight: 400;
 	margin: 0 0 15px 0;
 	background: #232323;
 }
@@ -576,7 +576,7 @@ footer {
 
 .project-info h3 {
 	font-size: 1.5em;
-	font-weight: 300;
+	font-weight: 500;
 	color: #39E2A5;
 	margin: 0 0 15px 0
 }
