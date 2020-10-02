@@ -365,7 +365,8 @@ footer {
 }
 
 #about h2 {
-	color: #39E2A5
+	color: #39E2A5;
+	font-weight: 700;
 }
 
 #about p {
@@ -381,6 +382,7 @@ footer {
 
 #experience h2 {
 	color: #39E2A5;
+	font-weight: 700;
 	background: #232323
 }
 
@@ -493,6 +495,7 @@ footer {
 #education h2 {
 	color: #39E2A5;
 	margin-bottom: 50px;
+	font-weight: 700;
 	background: #232323
 }
 
@@ -546,6 +549,7 @@ footer {
 
 #projects h2 {
 	color: #39E2A5;
+	font-weight: 700;
 	margin-bottom: 50px
 }
 
@@ -602,6 +606,7 @@ footer {
 
 #skills h2 {
 	color: #39E2A5;
+	font-weight: 700;
 	margin-bottom: 50px
 }
 
@@ -632,7 +637,7 @@ footer {
 #contact h2 {
 	margin: 0 0 15px 0;
 	color: #39E2A5;
-	font-weight: 500
+	font-weight: 700
 }
 
 #contact-form {
