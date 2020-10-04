@@ -110,7 +110,9 @@ header a:focus {
 }
 
 header.active {
-	display: block
+	display: block;
+	background-color: rgba(0, 0, 0, 0.6);
+	backdrop-filter: blur(4px);
 }
 
 header.sticky {
